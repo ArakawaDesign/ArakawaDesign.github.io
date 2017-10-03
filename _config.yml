@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "https://[workspace-name]-[user-name].c9users.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Ryan Arakawa # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -72,4 +72,4 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
