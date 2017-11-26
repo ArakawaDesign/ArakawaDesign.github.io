@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Kawapedia
+thumbnail-path: "img/KawapediaLaptop.png"
+short-description: Kawapedia allows users to create and maintain wiki pages.
 
 ---
 

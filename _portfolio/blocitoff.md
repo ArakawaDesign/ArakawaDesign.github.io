@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+title: Toron
+thumbnail-path: "img/ToronLaptop.png"
+short-description: Users build small communities based around shared topics of interest
 
 ---
 

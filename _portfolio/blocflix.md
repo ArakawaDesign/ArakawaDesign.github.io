@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: Ping
+thumbnail-path: "img/PongLaptop.png"
+short-description: A Javascript game based on Pong.
 
 ---
 
